@@ -32,8 +32,6 @@ Exempel:
 """
 ```
 
-För att se exakt hur koden ovan ser ut, öppna md-filen i Visual Studio Code.
-
 ## Författare
 
 Niclas Lund, [email](niclas.lund@ntig.se), [Github](https://github.com/ntinacklund)
