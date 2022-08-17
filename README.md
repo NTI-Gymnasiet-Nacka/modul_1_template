@@ -8,12 +8,13 @@ Se till att ändra i kommentarerna så de innehåller korrekt information om dig
 
 Kom ihåg att kommentera din kod så du visar att du förstår vad du har gjort. Du gör detta genom att använda fyrkant/brädgård/hashtag.
 
-Exempel: ```python
+Exempel: 
+```python
 
 # Detta är en kommentar
 # Detta med.
 
-"""python
+"""
     Du kan även göra kommentarsblock på detta vis.
     Då kan du skriva
     flera
