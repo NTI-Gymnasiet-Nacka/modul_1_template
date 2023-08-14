@@ -3,3 +3,4 @@
 # Din klass
 # Datum
 # Kod nedan
+print("test")
